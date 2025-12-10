@@ -1,4 +1,15 @@
 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+
+<div align="center">
+  
+   <h2><span style="color:#d97706; background:#fffbe6; padding:6px 18px; border-radius:8px; border:2px solid #fbbf24;">🚀 Built with AI Assistance 🚀</span></h2>
+
+</div>
+
 
 # Quiz App
 
@@ -41,10 +52,11 @@
 - Design and animation choices are based on provided references and user feedback
 
 ## Time Spent on the Assignment
-- Initial setup and scaffolding: ~30 minutes
-- UI/UX design and Tailwind styling: ~1.5 hours
-- Animation logic and Framer Motion integration: ~1 hour
-- Iterative feedback and refinements: ~1.5 hours
-- Bug fixes and polish: ~1 hour
-- **Total:** ~5.5 hours
+
++- Initial setup and scaffolding: ~30 minutes
++- UI/UX design and Tailwind styling: ~1.5 hours
++- Animation logic and Framer Motion integration: ~1 hour
++- Iterative feedback and refinements: ~1.5 hours
++- Bug fixes and polish: ~1 hour
++- **Total:** ~5.5 hours
 
