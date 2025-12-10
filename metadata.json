@@ -1,0 +1,5 @@
+{
+  "name": "Pastel Quiz App",
+  "description": "A pixel-perfect, interactive quiz application with a soft pastel aesthetic, built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
