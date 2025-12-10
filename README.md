@@ -41,10 +41,10 @@
 - Design and animation choices are based on provided references and user feedback
 
 ## Time Spent on the Assignment
-+- Initial setup and scaffolding: ~30 minutes
-+- UI/UX design and Tailwind styling: ~1.5 hours
-+- Animation logic and Framer Motion integration: ~1 hour
-+- Iterative feedback and refinements: ~1.5 hours
-+- Bug fixes and polish: ~1 hour
-+- **Total:** ~5.5 hours
->>>>>>> master
+- Initial setup and scaffolding: ~30 minutes
+- UI/UX design and Tailwind styling: ~1.5 hours
+- Animation logic and Framer Motion integration: ~1 hour
+- Iterative feedback and refinements: ~1.5 hours
+- Bug fixes and polish: ~1 hour
+- **Total:** ~5.5 hours
+
